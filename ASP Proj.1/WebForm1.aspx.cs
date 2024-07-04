@@ -41,13 +41,6 @@ namespace task23_7_2024
             Label3.Text = $"the mulitply is {multiply}";
         }
 
-        protected void Button4_Click(object sender, EventArgs e)
-        {
-            int x = Convert.ToInt32(TextBox1.Text);
-            int y = Convert.ToInt32(TextBox2.Text);
-            int division = x / y;
-            Label3.Text = $"the division is {division}";
-        }
 
 
     }
