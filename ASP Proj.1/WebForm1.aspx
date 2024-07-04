@@ -21,7 +21,7 @@
         <asp:Button ID="Button1" runat="server" BackColor="#0033CC" Height="50px" OnClick="Button1_Click" Text="+" Width="150px" />
         <asp:Button ID="Button2" runat="server" BackColor="#CC99FF" Height="50px" OnClick="Button2_Click" Text="-" Width="150px" />
         <asp:Button ID="Button3" runat="server" Text="*" Height="50px" OnClick="Button3_Click"  Width="150px" BackColor="Fuchsia" />
-        <asp:Button ID="Button4" runat="server" BackColor="#FF33CC" BorderColor="#66CCFF" Height="50px" OnClick="Button4_Click" Text="/" Width="150px" />
+
         <p>
             <asp:Label ID="Label3" runat="server"></asp:Label>
         </p>
